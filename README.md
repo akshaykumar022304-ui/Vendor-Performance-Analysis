@@ -195,6 +195,7 @@ Vendor-Performance-Analysis/
 │
 ├── .gitignore
 └── README.md
+```
 
 ## Dashboard
 
