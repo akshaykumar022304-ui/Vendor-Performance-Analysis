@@ -195,3 +195,11 @@ Vendor-Performance-Analysis/
 │
 ├── .gitignore
 └── README.md
+
+## Dashboard
+
+The project includes an interactive Power BI dashboard designed to provide a visual overview of vendor sales, procurement, profitability, inventory, and purchasing performance.
+
+The dashboard allows the analyzed vendor data to be explored through interactive visualizations and filters.
+
+![Vendor Performance Dashboard](dashboard/dashboard_preview.png)
