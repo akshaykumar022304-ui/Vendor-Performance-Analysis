@@ -202,4 +202,4 @@ The project includes an interactive Power BI dashboard designed to provide a vis
 
 The dashboard allows the analyzed vendor data to be explored through interactive visualizations and filters.
 
-![Vendor Performance Dashboard](dashboard/dashboard_preview.png)
+<img src="https://raw.githubusercontent.com/akshaykumar022304-ui/Vendor-Performance-Analysis/main/dashboard/dashboard_preview.png" alt="Vendor Performance Dashboard">
