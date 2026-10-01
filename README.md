@@ -38,3 +38,16 @@ Vendor-Performance-Analysis/
 │
 ├── .gitignore
 └── README.md
+
+## Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
+- SQL
+- Jupyter Notebook
+- Power BI
+- Git & GitHub
