@@ -204,3 +204,9 @@ The project includes an interactive Power BI dashboard designed to provide a vis
 The dashboard allows the analyzed vendor data to be explored through interactive visualizations and filters.
 
 <img src="https://raw.githubusercontent.com/akshaykumar022304-ui/Vendor-Performance-Analysis/main/dashboard/dashboard_preview.png" alt="Vendor Performance Dashboard">
+
+## Project Background
+
+This project was initially developed by following a YouTube tutorial (Tech Classes - Vendor Performance Data Analysis)  to understand the fundamentals of vendor performance analysis, data ingestion, and business intelligence workflows.
+
+The project was subsequently customized and extended with additional data analysis, feature engineering, statistical analysis, visualizations, documentation, and a Power BI dashboard to develop a more personalized end-to-end portfolio project.
